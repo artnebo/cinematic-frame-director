@@ -1,6 +1,11 @@
 # 🎬 Cinematic Frame Director
 
-A [Claude Code](https://claude.com/claude-code) skill that turns any idea — a sentence, a mood, a half-formed image in your head — into **one production-grade cinematic image prompt** for text-to-image models (Seedream, Midjourney, Flux, DALL·E, and others).
+[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-d97757?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/artnebo/cinematic-frame-director)](https://github.com/artnebo/cinematic-frame-director/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/artnebo/cinematic-frame-director/pulls)
+
+A [Claude Code](https://claude.com/claude-code) skill that turns any idea — a sentence, a mood, a half-formed image in your head — into **one production-grade cinematic image prompt** for text-to-image models: **Seedream, Midjourney, Flux, DALL·E, Stable Diffusion**, and any other AI image generator.
 
 Not a prompt template. A director.
 
@@ -74,9 +79,25 @@ Or just describe the image you want — the skill triggers automatically on requ
 - **English prompts, any input language.** Talks to you in your language, directs in English.
 - **Full re-delivery on revisions.** "Make it night" returns the complete updated prompt, copy-ready.
 
+## Adaptive style
+
+The Style Prefix is a look, not a cage. Real outputs from this skill have re-voiced it per genre while keeping the directing machinery intact:
+
+| Request | Prefix adaptation |
+|---|---|
+| Cartoon scene | Pixar-grade 3D feature-animation still, groomed fur, subsurface scattering |
+| 1980s TV series diner | 35mm Eastman grain, halation, tungsten practicals, neon accent |
+| Modern action blockbuster | Top Gun: Maverick aerial-unit realism, chase-plane long lens |
+| Apple-keynote product shot | Precision stage lighting, LED screen as key light, theatrical haze |
+| Documentary | Cinéma vérité handheld, available fluorescent light, stolen framing |
+
 ## Origin
 
 The directorial approach (style prefix, mise-en-scène blocking, Hollywood-restraint acting, motivated camera, 60:30:10 lighting) is adapted from a Seedance 2.0 video shotlist workflow, re-focused from 15-second multi-cut clips down to a single decisive still frame.
+
+## Contributing
+
+Issues and pull requests are welcome — especially new worked examples, genre-specific style prefixes, and refinements to the directing guidance in [`SKILL.md`](cinematic-frame-director/SKILL.md).
 
 ## License
 
