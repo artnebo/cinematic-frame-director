@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/artnebo/cinematic-frame-director)](https://github.com/artnebo/cinematic-frame-director/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/artnebo/cinematic-frame-director/pulls)
 
-A [Claude Code](https://claude.com/claude-code) skill that turns any idea — a sentence, a mood, a half-formed image in your head — into **one production-grade cinematic image prompt** for text-to-image models: **Seedream, Midjourney, Flux, DALL·E, Stable Diffusion**, and any other AI image generator.
+A [Claude Code](https://claude.com/claude-code) skill that turns any idea — a sentence, a mood, a half-formed image in your head — into **one production-grade cinematic image prompt** for text-to-image models: **Seedream, Midjourney, Flux, Nano Banana, GPT-Image**, and any other AI image generator.
 
 Not a prompt template. A director.
 
