@@ -9,6 +9,33 @@ A [Claude Code](https://claude.com/claude-code) skill that turns any idea — a 
 
 Not a prompt template. A director.
 
+## Gallery
+
+Real frames generated from single-sentence requests, directed by this skill:
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="examples/f16-dogfight.webp" alt="Modern action blockbuster — F-16 dogfight victory, chase-plane long lens, contre-jour golden hour" />
+      <br /><sub><b>"A dogfight scene in modern-blockbuster style"</b> — the frame freezes the second <i>after</i> the win: missile trail still hanging, the pilot's head turned to check the kill.</sub>
+    </td>
+    <td width="50%">
+      <img src="examples/80s-diner.webp" alt="1980s TV-series diner still — cheeseburger plate on Formica counter, tungsten practicals, neon accent" />
+      <br /><sub><b>"A diner shot focused on the food, 80s TV-series style"</b> — prefix re-voiced to 35mm Eastman grain and tungsten practicals; the plate has just slid to a stop.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="examples/beaver-and-boy.webp" alt="Pixar-grade animation still — a beaver offering a gnawed stick to a boy at a golden-hour river" />
+      <br /><sub><b>"A cartoon about a beaver and his friend, a scene on the river"</b> — prefix adapted to feature animation; frozen one centimeter before paw meets hand.</sub>
+    </td>
+    <td width="50%">
+      <img src="examples/maldives-sunset.webp" alt="Cinematic still — a woman mid-stride through a Maldivian lagoon at sunset, backlit spray frozen mid-air" />
+      <br /><sub><b>"A girl in the Maldives at sunset"</b> — not a posed portrait: mid-stride, spray frozen mid-arc, eye-line landing just past the camera at whoever follows.</sub>
+    </td>
+  </tr>
+</table>
+
 ## What it does
 
 You give it an idea in any language:
